@@ -102,7 +102,7 @@ click on actions → security → modify IAM role option
 ### $\color{red} \textbf {Step 5 → Building Infrastructure  Using  terraform}$
 $\color{blue} \textbf {Install  GIT}$
 ````
-https://github.com/mukundDeo9325/Project-Super-Mario.git
+git clone https://github.com/mukunddeotale49-bit/Project-Super-Mario.git
 ````
 ````
 cd Project-Super-Mario
