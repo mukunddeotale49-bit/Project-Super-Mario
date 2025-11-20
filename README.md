@@ -158,3 +158,8 @@ cd EKS-TF
  terraform destroy -auto-approve
 ````
 
+
+- after destroying cluster make shure to check s3 buccket to delete for deleting buccket empty and then delete the s3 buccket 
+
+- check for eks clusture where its deleted or not 
+
